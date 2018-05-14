@@ -128,6 +128,10 @@ header h1 {
   display: inline;
 }
 
+..happy-menu li:hover {
+  cursor: pointer;
+}
+
 .happy-menu li{
   padding: 10px 12px;
   color: #fff;
